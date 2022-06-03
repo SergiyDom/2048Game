@@ -1,0 +1,32 @@
+﻿#############
+## Idea
+#############
+target/
+.idea/
+.idea
+.repository/
+*.iml
+*.iws
+*.jrtc
+
+*.class
+*.info
+*.properties
+*.jar
+
+# Dump file
+*.stackdump
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# End of https://www.toptal.com/developers/gitignore/api/windows
+ .idea
+out
+*.idea
+*.xml
+*.iml
